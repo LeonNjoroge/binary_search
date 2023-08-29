@@ -4,6 +4,8 @@
 #recursion or while loop
 #increase the steps each time a split is done
 #conditions to track target position
+# Linear search - 0(n) time complexity
+# Binary Search - 0(log n) time complexity
 
 def binary_search (list,element):
     middle = 0
